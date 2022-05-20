@@ -1,4 +1,6 @@
 # BirthdayNoteToker
+Verinin girilmesi ve kaydetmesi:
+
 ![Screenshot (24)](https://user-images.githubusercontent.com/45233307/169514569-acf4e49c-50fe-4aac-9a94-7a94165aac8b.png)
 
 Kişi ve doğum günü kaydedilip app yeniden başalatıldığında verinin kayıtlı olarak gelmesi:
